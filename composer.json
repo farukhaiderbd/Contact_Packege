@@ -13,7 +13,7 @@
     "require": {},
     "autoload-dev": {
         "psr-4": {
-            "faruk\\contact": "/src"
+            "faruk\\contact": "src"
 
         }
 }
