@@ -16,4 +16,12 @@
             "faruk\\contact\\": "src/"
 
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Faruk\\Contact\\ContactServiceProvider"
+            ]
+        }
+    }
 }
