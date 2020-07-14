@@ -1,0 +1,19 @@
+{
+    "name": "faruk/contact",
+    "description": "This you send to email admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "farukhaiderbd",
+            "email": "farukhaidar3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "faruk\\contact": "src/"
+
+        },
+}
