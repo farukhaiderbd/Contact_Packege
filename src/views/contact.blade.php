@@ -134,6 +134,7 @@
 
     <div class="container">
         <form id="contactus" action="" method="post">
+        @csrf
             <h3>Contact us form</h3>
             <fieldset> <input placeholder="name" name="name" type="text" tabindex="1" required autofocus> </fieldset>
             <fieldset> <input placeholder="Email Address" name="email" type="email" tabindex="2" required> </fieldset>
