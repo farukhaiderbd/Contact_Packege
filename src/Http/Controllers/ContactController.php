@@ -1,10 +1,10 @@
 <?php
 
-namespace faruk\contact\Http\Controllers;
+namespace FarukHaiderBD\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use Faruk\Contact\Mail\ContactMail;
-use Faruk\Contact\Models\Contact;
+use FarukHaiderBD\Contact\Mail\ContactMail;
+use FarukHaiderBD\Contact\Models\Contact;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
