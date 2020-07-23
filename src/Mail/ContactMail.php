@@ -1,6 +1,6 @@
 <?php
 
-namespace Faruk\Contact\Mail;
+namespace FarukHaiderBD\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
