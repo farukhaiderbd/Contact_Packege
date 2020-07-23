@@ -1,6 +1,6 @@
 <?php
 
-namespace faruk\contact;
+namespace FarukHaiderBD\Contact;
 
 use Illuminate\Support\ServiceProvider;
 
