@@ -13,14 +13,14 @@
     "require": {},
     "autoload-dev": {
         "psr-4": {
-            "faruk\\contact\\": "src/"
+            "FarukHaiderBD\\Contact\\": "src/"
 
         }
     },
    "extra": {
         "laravel": {
             "providers": [
-                "FarukHaiderBD\\ShoppingCart\\ShoppingCartServiceProvider"
+                "FarukHaiderBD\\Contact\\ContactServiceProvider"
             ]
         }
     }
