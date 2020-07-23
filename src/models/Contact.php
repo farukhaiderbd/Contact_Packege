@@ -1,6 +1,6 @@
 <?php
 
-namespace Faruk\Contact\Models;
+namespace FarukHaiderBD\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
