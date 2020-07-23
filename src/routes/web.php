@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Route;
 
 
 
-Route::group(['namespace' => 'Faruk\Contact\Http\Controllers'], function() {
+Route::group(['namespace' => 'FarukHaiderBD\Contact\Http\Controllers'], function() {
 
 
     Route::get('contact', 'ContactController@index')->name('contact');
