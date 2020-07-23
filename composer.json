@@ -17,10 +17,10 @@
 
         }
     },
-    "extra": {
+   "extra": {
         "laravel": {
             "providers": [
-                "faruk\\contact\\ContactServiceProvider"
+                "FarukHaiderBD\\ShoppingCart\\ShoppingCartServiceProvider"
             ]
         }
     }
